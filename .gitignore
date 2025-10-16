@@ -1,0 +1,13 @@
+# Python Caches
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Local Database/Index (assuming this is generated data)
+chrome_langchain_db/
+
+# Other temporary or system files
+.DS_Store # macOS system file
+*.log
